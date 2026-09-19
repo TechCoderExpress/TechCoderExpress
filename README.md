@@ -23,9 +23,10 @@
 
 ### :man_technologist: About Me :
 I'm a Cybersecurity Researcher and Software Engineer from Algeria, currently focusing on secure system architecture, anomaly detection and network defense.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🔭 **Currently working on:** Designing open-source cybersecurity frameworks, developing tools for purple team operations, and advancing my research.
-- 🧠 **Areas of focus:** Backend Engineering, Application Security, Secure System Architecture, Distributed Systems, AI-assisted Security, Python, Java, and Spring Boot.
-- 🛠 **Approach:** I prioritize a deep foundational understanding of algorithmic logic over automated generation.
+- 🔭 **Currently working on:** Building enterprise backend systems, scalable micro-services, and high-performance RESTful APIs using Java and Spring Boot.
+- 🧠 **Areas of focus:** Back-end Engineering, Spring Boot, Java, Micro-services, Distributed Systems, and Normalized Relational Databases.
+- 🛡 **Engineering Standards:** I integrate SDLC best practices, secure coding guidelines respecting the OWASP Top 10, SOLID design principles, and 3NF database design to ensure maintainable, high-quality code.
+- 🛠 **Approach:** I prioritize clean architecture, writing maintainable code, and a deep foundational understanding of algorithmic logic.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheib-benchabana-1601801a7/)
   
 
