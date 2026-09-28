@@ -23,12 +23,14 @@
 
 ### :man_technologist: About Me :
 I'm a Cybersecurity Researcher and Software Engineer from Algeria, currently focusing on secure system architecture, anomaly detection and network defense.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🔭 **Currently working on:** Building enterprise backend systems, scalable micro-services, and high-performance RESTful APIs using Java and Spring Boot.
+- 🔭 **Currently working on:** Designing secure enterprise backend systems, scalable micro-services, and IronEagle Defender—an edge-computing IoT security framework utilizing lightweight neural networks for real-time network anomaly detection.
 - 🧠 **Areas of focus:** Back-end Engineering, Spring Boot, Java, Micro-services, Distributed Systems, and Normalized Relational Databases.
 - 🛡 **Engineering Standards:** I integrate SDLC best practices, secure coding guidelines respecting the OWASP Top 10, SOLID design principles, and 3NF database design to ensure maintainable, high-quality code.
-- 🛠 **Approach:** I prioritize clean architecture, writing maintainable code, and a deep foundational understanding of algorithmic logic.
+- 🛠 **Technical Stack & Skills:**
+   Back-end & Systems: Java, Spring Boot, C/C++, Python, RESTful APIs, Apache Kafka, Docker, and Linux/WSL2 environments.
+   Cybersecurity & Analysis: Network traffic telemetry analysis (ToN-IoT, Edge-IIoTset), packet inspection (Wireshark, Scapy adn Custom Packet Analyzer), threat modeling, and defensive system design.
+  🎯 **Approach:** Prioritizing clean architecture, maintainable code, and deep foundational logic to build high-performance, resilient systems from the cloud to the network edge.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheib-benchabana-1601801a7/)
-  
 
 ### Languages and Tools :
 <div>
